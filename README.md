@@ -1,7 +1,7 @@
 # Animações avançadas
 ## Cronometro feito com JavaScript
 
-<img src="img/gif-css-avancado.gif">
+<img src="img/gif-cssAvancado.gif">
 
 
 ## Executar Projeto:
