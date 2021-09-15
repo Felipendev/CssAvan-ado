@@ -3,6 +3,10 @@
     box-sizing: border-box;
 }
 
+a { 
+    color: inherit; 
+}
+
 h2 {
     font-family: "Yanone Kaffeesatz", sans-serif;
     color: black;
