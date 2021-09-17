@@ -1,5 +1,5 @@
 # Animações avançadas
-## Cronometro feito com JavaScript
+## Exemplo de portfólio interativo feito com JavaScript
 
 <img src="img/gif-cssAvancado.gif"> 
 
